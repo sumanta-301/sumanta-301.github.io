@@ -1,0 +1,67 @@
+@import url('https://fonts.googleapis.com/css2?family=Bungee+Shade&display=swap');
+.nav-link{
+    color:rgb(39, 27, 27);
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 800;
+    background-color: rgba(170, 179, 162,0.04);
+    font-size: 18px;
+}
+
+
+.link:hover{
+    font-size: 22px;
+    padding:10px;
+    letter-spacing: 3;
+    color:aquamarine;
+}
+
+.nav-brand {
+   
+    font-size: 45px;
+    font-weight: 900px;
+    text-shadow: 1.5em;
+    font-family: 'Bungee Shade', cursive;
+}
+
+.slide-text h3{
+    font-size: 45px;
+    font-family: 'Times New Roman', Times, serif;
+    text-shadow: 30px;
+}
+.slide-text p{
+    font-size: 24px;
+
+}
+.carousel-caption{
+    bottom:300px;
+}
+.carousel-item{
+    height: 100vh;
+    min-height: 400px;
+}
+h4{
+    text-align: center;
+    margin:45px 0;
+    text-shadow: 32px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.footer{
+    display:flex;
+    flex-direction: row;
+    position:static;
+    width:100%;
+    height:100px;
+    background-color: rgb(50, 58, 56);
+    margin-top: 25px;
+}
+.footer p{
+    text-align: justify;
+    color:azure;
+    margin-top: 35px;
+    margin-left: 35%;
+}
+/* .footer ul{
+    list-style-type: none;
+    flex-direction: row;
+} */
+
